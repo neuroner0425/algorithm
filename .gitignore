@@ -1,4 +1,8 @@
+*
+!*.*
+!*/
+
 .vscode
-*.py
+Backjoon/*.py
 Tier*/
-All/
+ni*/

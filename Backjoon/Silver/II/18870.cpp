@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#define LV -100000001
 #define pii pair<int,int>
 
 using namespace std;
